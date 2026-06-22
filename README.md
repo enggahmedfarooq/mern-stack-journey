@@ -1,4 +1,4 @@
-# Delta MERN Journey
+#  MERN Stack Journey
 
 This repository documents my MERN stack web development journey — covering HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB as I build toward full-stack proficiency.
 
