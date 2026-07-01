@@ -32,7 +32,8 @@ delta-mern-journey/
 | Topic | Status | Folder |
 |---|---|---|
 | HTML | ✅ Completed | [`/html`](./html) |
-| CSS | 🔄 In Progress | [`/css`](./css) |
+| CSS | ✅ Completed | [`/css`](./css) |
+| Bootstrap | ⬜ Not Started | [`/bootstrap`](./bootstrap) |
 | JavaScript | ⬜ Not Started | [`/javascript`](./javascript) |
 | React | ⬜ Not Started | [`/react`](./react) |
 | Node.js | ⬜ Not Started | [`/nodejs`](./nodejs) |
