@@ -56,4 +56,6 @@ I'm documenting this journey publicly to:
 ## 📫 Connect
 
 Feel free to explore the folders above — each one tells the story of what I learned and how I got there.
+thanks
+
 
