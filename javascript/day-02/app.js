@@ -14,4 +14,4 @@ if(color === "green"){
     console.log("Go go your way is clear");
 }
 
-//pracice
+//pracicing
