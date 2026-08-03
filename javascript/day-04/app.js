@@ -14,4 +14,4 @@ if (guess == favMovie) {
 } else {
     console.log("You quite");
 }
- */
+ */  thanks
