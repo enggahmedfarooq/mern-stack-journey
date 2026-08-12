@@ -1,4 +1,4 @@
-/*
+
 //FAVOURITE MOVIE GUESSING GAME:
 const favMovie = "marvel";
 
@@ -14,4 +14,4 @@ if (guess == favMovie) {
 } else {
     console.log("You quite");
 }
- */  thansk
+ 
